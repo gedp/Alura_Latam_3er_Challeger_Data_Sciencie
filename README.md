@@ -218,7 +218,9 @@ Exportar a Hojas de cálculo
 
 ✅ Código replicable: Solución escalable, documentada y fácil de implementar.
 
-📝 Nota: Este proyecto fue desarrollado como parte del Challenge 3 de Alura LATAM para demostrar competencias avanzadas en ciencia de datos, machine learning y análisis predictivo.
+________
+
+### 📝 Nota: Este proyecto fue desarrollado como parte del Challenge 3 de Alura LATAM para demostrar competencias avanzadas en ciencia de datos, machine learning y análisis predictivo.
 
 ⭐ Si este proyecto te fue útil, ¡considera darle una estrella! ⭐
 
