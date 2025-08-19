@@ -198,8 +198,8 @@ importancia_variables.png	PNG	Análisis de feature importance
 comparacion_modelos.png	PNG	Comparación de métricas entre modelos
 curvas_roc.png	PNG	Curvas ROC de los modelos
 resultados_prediccion.csv	CSV	Predicciones para nuevos datos
-
 Exportar a Hojas de cálculo
+
 🏆 Logros del Proyecto
 ✅ Pipeline de ML completo: Implementación exitosa de EDA, preprocesamiento, modelado y evaluación.
 
@@ -217,10 +217,11 @@ Exportar a Hojas de cálculo
 
 ✅ Código replicable: Solución escalable, documentada y fácil de implementar.
 
-________
+---
 
 ### 📝 Nota: Este proyecto fue desarrollado como parte del Challenge 3 de Alura LATAM para demostrar competencias avanzadas en ciencia de datos, machine learning y análisis predictivo.
 
 ⭐ Si este proyecto te fue útil, ¡considera darle una estrella! ⭐
 
-Hecho con ❤️ para el desafío de Alura Latam, por: SynergyaTech
+---
+Hecho con ❤️ por: [SynergyaTech](https://synergya.tech)
