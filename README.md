@@ -199,8 +199,6 @@ comparacion_modelos.png	PNG	Comparación de métricas entre modelos
 curvas_roc.png	PNG	Curvas ROC de los modelos
 resultados_prediccion.csv	CSV	Predicciones para nuevos datos
 
-Exportar a Hojas de cálculo
-
 🏆 Logros del Proyecto
 
 ✅ Pipeline de ML completo: Implementación exitosa de EDA, preprocesamiento, modelado y evaluación.
