@@ -27,17 +27,8 @@ El objetivo principal es implementar un flujo completo de Machine Learning para 
 * **Google Colab:** Entorno de desarrollo.
 
 ## 📁 Estructura del Proyecto
-├── TelecomX_Churn_Prediction.ipynb    # Notebook principal con todo el análisis
-├── modelo_xgboost_reducido.pkl        # Modelo optimizado guardado
-├── preprocessor.pkl                   # Preprocesador guardado
-├── feature_names.pkl                  # Nombres de características
-├── datos_tratados/                    # Directorio con datos procesados
-└── visualizaciones/                   # Gráficos generados
-├── matriz_correlacion.png
-├── distribucion_churn.png
-├── importancia_variables.png
-├── comparacion_modelos.png
-└── curvas_roc.png
+<img width="782" height="450" alt="image" src="https://github.com/user-attachments/assets/46231f4d-7844-48ac-8764-10c6f984c963" />
+
 
 
 ## 🔄 Proceso de Machine Learning Implementado
