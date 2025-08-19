@@ -162,7 +162,6 @@ El objetivo principal es implementar un flujo completo de Machine Learning para 
 5.  📊 Ver resultados: El análisis se ejecutará automáticamente mostrando todas las visualizaciones.
 
 ### Ejecución Local
-```bash
 # clonar el repositorio
 git clone [https://github.com/tu-usuario/challenge3-data-science-alura-latam.git](https://github.com/tu-usuario/challenge3-data-science-alura-latam.git)
 cd challenge3-data-science-alura-latam
